@@ -2,13 +2,13 @@
     "STATIC_CONTACTS_MESSAGE": {
         "ru": [
             "Наши контакты:", 
-            "Электронная почта: `support@mywalleter.ru`",
+            "Электронная почта: `support@telegramcoin.ru`",
             "",
             "Контакт разработчика: https://dynomake.space"
             ],
         "en": [
             "Service support:", 
-            "Email: `support@mywalleter.ru`",
+            "Email: `support@telegramcoin.ru`",
             "",
             "Developer contact: https://dynomake.space"
             ]
@@ -43,12 +43,12 @@
     },
     "MAIN_MENU_MESSAGE": {
         "ru": [
-            "💱 Сервис по обмену валют MyWalleter", 
+            "💱 Сервис по обмену валют TelegramCoin", 
             "",
             "Ваш ID: @$id$"
             ],
         "en": [
-            "💱 Currency exchange service MyWalleter", 
+            "💱 Currency exchange service TelegramCoin", 
             "",
             "Your ID: @$id$"
             ]
