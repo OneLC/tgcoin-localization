@@ -1,0 +1,329 @@
+{
+    "STATIC_CONTACTS_MESSAGE": {
+        "ru": [
+            "Наши контакты:", 
+            "Электронная почта: `support@mywalleter.ru`",
+            "",
+            "Контакт разработчика: https://dynomake.space"
+            ],
+        "en": [
+            "Service support:", 
+            "Email: `support@mywalleter.ru`",
+            "",
+            "Developer contact: https://dynomake.space"
+            ]
+    },
+    "STATIC_CONTACTS_MAKE_A_REVIEW": {
+        "ru": "🔈 Оставить отзыв",
+        "en": "🔈 Leave a feedback"
+    },
+    "STATIC_CONTACTS_TELEGRAM_SUPPORT": {
+        "ru": "\uD83D\uDCF2 Телеграм",
+        "en": "\uD83D\uDCF2 Telegram"
+    },
+    "MAIN_MENU_BUTTON": {
+        "ru": "🗂 Меню",
+        "en": "🗂 Menu"
+    },
+     "GURANTEES_MESSAGE": {
+        "ru": [
+            "Вы можете ознакомиться с отзывами реальных пользователей о нашей работе на мониторингах:", 
+            "",
+            "bestchange.ru",
+            "kurs.expert",
+            "okchanger.ru"
+            ],
+        "en": [
+            "You can read the reviews of real users about our work on monitoring:", 
+            "",
+            "bestchange.com",
+            "rates.guru",
+            "okchanger.com"
+            ]
+    },
+    "MAIN_MENU_MESSAGE": {
+        "ru": [
+            "💱 Сервис по обмену валют MyWalleter", 
+            "",
+            "Ваш ID: @$id$"
+            ],
+        "en": [
+            "💱 Currency exchange service MyWalleter", 
+            "",
+            "Your ID: @$id$"
+            ]
+    },
+    "SELECTED_VERIFY_MESSAGE": {
+        "ru": [
+            "Вы хотите обменять:",
+            "$from$ ($from_currency$) на $to$ ($to_currency$)", 
+            "",
+            "Курс обмена:",
+            "$from_amount$ ($from_currency$) = $to_amount$ ($to_currency$)",
+            "",
+            "Минимальная сумма обмена: $from_min$ $from_currency$"
+            ],
+        "en": [
+            "You want to exchange:",
+            "$from$ ($from_currency$) for $to$ ($to_currency$)", 
+            "",
+            "Exchange rate:",
+            "$from_amount$ ($from_currency$) = $to_amount$ ($to_currency$)",
+            "",
+            "Minimum amount of exchange: $from_min$ $from$"
+            ]
+    },
+    "APPLICATION_INFO": {
+        "ru": [
+            "Информация о заявке:",
+            "ID: $id$",
+            "",
+            "$from$ ($from_currency$) на $to$ ($to_currency$)", 
+            "",
+            "Статус: $status$"
+            ],
+        "en": [
+            "Exchange info:",
+            "ID: $id$",
+            "",
+            "$from$ ($from_currency$) for $to$ ($to_currency$)", 
+            "",
+            "Status: $status$"
+            ]
+    },
+    "PRE_PAY_MESSAGE": {
+        "ru": [
+            "Вы хотите обменять:",
+            "$from$ ($from_currency$) на $to$ ($to_currency$)", 
+            "",
+            "Курс обмена:",
+            "$from_amount$ ($from_currency$) = $to_amount$ ($to_currency$)",
+            "",
+            "Ваш кошелек: $wallet$"
+            ],
+        "en": [
+            "You want to exchange:",
+            "$from$ ($from_currency$) for $to$ ($to_currency$)", 
+            "",
+            "Exchange rate:",
+            "$from_amount$ ($from_currency$) = $to_amount$ ($to_currency$)",
+            "",
+            "Your wallet: $wallet$"
+            ]
+    },
+    "SELECTED_GIVE_SELECT_BUTTON": {
+        "ru": "Отдать X кол-во $from_currency$",
+        "en": "Give X amount $from_currency$"
+    },
+    "SELECTED_TAKE_SELECT_BUTTON": {
+        "ru": "Получить X кол-во $to_currency$",
+        "en": "Get X amount $to_currency$"
+    },
+    "SELECTED_VERIFY_UPDATE_BUTTON": {
+        "ru": "\uD83D\uDD04 Обновить курс",
+        "en": "\uD83D\uDD04 Update rate"
+    },
+    "ALLRIGHT_BUTTON": {
+        "ru": "✅ Все верно",
+        "en": "✅ It's okay"
+    },
+    "PAYED_BUTTON": {
+        "ru": "✅ Готово, перевел(а)",
+        "en": "✅ I transfeted money"
+    },
+    "APPLICATION_STATUS_UPDATED": {
+        "ru": "Статус вашей заявки был обновлен.",
+        "en": "The status of your exhange was updated now."
+    },
+    "MAIN_MENU_START_EXCHANGE_BUTTON": {
+        "ru": "\uD83D\uDCCA Обмен",
+        "en": "\uD83D\uDCCA Exchange"
+    },
+    "MAIN_MENU_HISTORY_BUTTON": {
+        "ru": "📓 История обмена",
+        "en": "📓 Echanges history"
+    },
+    "MAIN_MENU_CONTACTS_BUTTON": {
+        "ru": "☎️ Контакты",
+        "en": "☎️ Support contacts"
+    },
+    "MAIN_MENU_GUARANTEES_BUTTON": {
+        "ru": "Наши гарантии",
+        "en": "Our guarantees"
+    },
+    "EXCHANGE_SELECT_CATEGORY_FROM_TEXT": {
+        "ru": "💱⤴️ Выберите раздел валюты которую хотите отдать",
+        "en": "💱⤴️ Select the section of the currency you want to give"
+    },
+    "EXCHANGE_SELECT_CATEGORY_TO_TEXT": {
+        "ru": "💱⤴️ Выберите раздел валюты которую хотите получить",
+        "en": "💱⤴️ Select the section of the currency you want to get"
+    },
+    "SELECT_AMOUNT_TO": {
+        "ru": "Сколько $currency$ $display$ вы хотите получить? (Минимум: $min$ $currency$)",
+        "en": "How much $currency$ $display$ do you wanna get? (Minimum: $min$ $currency$)"
+    },
+    "SELECT_AMOUNT_FROM": {
+        "ru": "Сколько $currency$ $display$ вы хотите отдать? (Минимум: $min$ $currency$)",
+        "en": "How much $currency$ $display$ do you wanna give? (Minimum: $min$ $currency$)"
+    },
+    "SELECT_AMOUNT_TO_MIN_LIMIT": {
+        "ru": "Вы указали число меньше минимального! (Минимум: $min$ $currency$)",
+        "en": "You specified not enough for this currency! (Minimum: $min$ $currency$)"
+    },
+    "SELECT_AMOUNT_NOT_INTEGER": {
+        "ru": "Вы указали не число. Если вы хотите указать дробное число, используйте ТОЧКУ (.) как разделитель.",
+        "en": "You specified not a Number. If you want to use fractional number, use DOT (.) as delimiter"
+    },
+    "EXCHANGE_SELECT_CATEGORY_CRYPTO_BUTTON": {
+        "ru": "Криптовалюта",
+        "en": "Cryptocurrency"
+    },
+    "EXCHANGE_SELECT_CATEGORY_PAY_SYSTEMS_BUTTON": {
+        "ru": "Системы платежей",
+        "en": "Payment systems"
+    },
+    "EXCHANGE_SELECT_CATEGORY_BANKS_BUTTON": {
+        "ru": "Банки",
+        "en": "Banks"
+    },
+    "CREATED_AN_APPLICATION_FOR_YOU": {
+        "ru": "Заявка создана. Обработка занимает до 15-ти минут. Ожидайте :)",
+        "en": "An application was created! Please wait up to 15 minutes."
+    },
+    "APPLICATION_CHECK_STATUS": {
+        "ru": "🔄 Обновить статус",
+        "en": "🔄 Update information"
+    },
+    "BACK_BUTTON": {
+        "ru": "⬅ Назад",
+        "en": "⬅ Back"
+    },
+    "TRY_TO_PRINT_AGAIN_BUTTON": {
+        "ru": "⬅ Ввести заного",
+        "en": "⬅ Try again"
+    },
+    "EXCHANGE_CATEGORY_DESC_FROM_TEXT": {
+        "ru": "💱⤴️ Выберите валюту которую хотите отдать:",
+        "en": "💱⤴️ Select the currency you want to give"
+    },
+    "EXCHANGE_CATEGORY_DESC_TO_TEXT": {
+        "ru": "💱⤴️ Выберите валюту которую хотите получить:",
+        "en": "💱⤴️ Select the currency you want to get"
+    },
+    "PAYMENT_SYSTEM_SBP_BUTTON": {
+        "ru": "Система быстрых платежей",
+        "en": "Faster Payments System"
+    },
+    "CRYPTO_BTC_BUTTON": {
+        "ru": "Bitcoin",
+        "en": "Bitcoin"
+    },
+    "CRYPTO_DOGE_BUTTON": {
+        "ru": "Dogecoin",
+        "en": "Dogecoin"
+    },
+    "CRYPTO_ETH_BUTTON": {
+        "ru": "Ethereum",
+        "en": "Ethereum"
+    },
+    "CRYPTO_POLYGON_BUTTON": {
+        "ru": "Polygon",
+        "en": "Polygon"
+    },
+    "CRYPTO_SOLANA_BUTTON": {
+        "ru": "Solana",
+        "en": "Solana"
+    },
+    "CRYPTO_TRON_BUTTON": {
+        "ru": "Tron",
+        "en": "Tron"
+    },
+    "CRYPTO_USDC_ETH_BUTTON": {
+        "ru": "USDC ERC20",
+        "en": "USDC ERC20"
+    },
+    "CRYPTO_USDC_MATIC_BUTTON": {
+        "ru": "USDC Polygon",
+        "en": "USDC Polygon"
+    },
+    "CRYPTO_USDC_SOL_BUTTON": {
+        "ru": "USDC Solana",
+        "en": "USDC Solana"
+    },
+    "CRYPTO_USDT_ETH_BUTTON": {
+        "ru": "USDT ERC20",
+        "en": "USDT ERC20"
+    },
+    "CRYPTO_USDT_MATIC_BUTTON": {
+        "ru": "USDT Polygon",
+        "en": "USDT Polygon"
+    },
+    "CRYPTO_USDT_SOL_BUTTON": {
+        "ru": "USDT Solana",
+        "en": "USDT Solana"
+    },
+    "CRYPTO_USDT_TRON_BUTTON": {
+        "ru": "USDT Tron",
+        "en": "USDT Tron"
+    },
+    "BANK_TINKOFF_BUTTON": {
+        "ru": "Тинькофф",
+        "en": "Tinkoff"
+    },
+    "BANK_SBER_BUTTON": {
+        "ru": "Сбер",
+        "en": "Sber"
+    },
+    "BANK_ALFABANKRU_BUTTON": {
+        "ru": "Альфа-Банк РФ",
+        "en": "Alfa-Bank RU"
+    },
+
+    "BANK_TEMPLATE_QUESTION": {
+        "ru": "Теперь пожалуйста отправьте в ответ сообщением номер вашей карты ($bank), на которую вы хотите получить перевод.",
+        "en": "Now please reply with the number of your card ($bank) to which you would like to receive the transfer."
+    },
+    "BANK_TEMPLATE_INSTRUCTION": {
+        "ru": "Вам нужно перевести $amount$ $currency$ на карту `$card$` ($bank$)",
+        "en": "You need to make a bank transfer for $amount$ $currency$ to a card `$card$` ($bank$)"
+    },
+
+    "CRYPTO_TEMPLATE_QUESTION": {
+        "ru": "Пожалуйста укажите в отвеном сообщении адрес вашего $what$ кошелька для получения перевода.",
+        "en": "Please specify in the reply message the address of your $what$ wallet to receive the transfer."
+    },
+    "CRYPTO_TEMPLATE_INSTRUCTION": {
+        "ru": "Вам нужно перевести $amount$ $currency$ на криптокошелек: `$wallet$`",
+        "en": "You need to transfer $amount$ $currency$ to wallet: `$wallet$`"
+    },
+
+    "PAYMENT_SYSTEM_SBP_QUESTION": {
+        "ru": "Теперь пожалуйста отправьте в ответ сообщением ваш номер телефона привязанный к системе СБП для получения перевода.",
+        "en": "Now please reply with your phone number linked to the SBP system to receive the transfer."
+    },
+    "PAYMENT_SYSTEM_SBP_INSTRUCTION": {
+        "ru": "Вам нужно перевести $amount$ RUB через систему быстрых платежей в Альфа-Банк *+79933547396*",
+        "en": "You need to transfer $amount$ RUB through the faster payment system to Alfa-Bank *+79933547396*"
+    },
+
+    "CARD_NUMBER_ALFABANKRU": { "ru": "2200150582586498" },
+    "CARD_NUMBER_TINKOFF": { "ru": "5280417711701066" },
+    "CARD_NUMBER_SBER": { "ru": "тут должен быть номер" },
+
+    "WALLET_BTC": { "ru": "кошелек настраиваеться в языках" },
+    "WALLET_DOGE": { "ru": "кошелек настраиваеться в языках" },
+    "WALLET_ETH": { "ru": "кошелек настраиваеться в языках" },
+    "WALLET_POLYGON": { "ru": "кошелек настраиваеться в языках" },
+    "WALLET_SOLANA": { "ru": "кошелек настраиваеться в языках" },
+    "WALLET_TRON": { "ru": "кошелек настраиваеться в языках" },
+    "WALLET_USDC_ETH": { "ru": "кошелек настраиваеться в языках" },
+    "WALLET_USDC_MATIC": { "ru": "кошелек настраиваеться в языках" },
+    "WALLET_USDC_SOL": { "ru": "кошелек настраиваеться в языках" },
+    "WALLET_USDT_ETH": { "ru": "кошелек настраиваеться в языках" },
+    "WALLET_USDT_MATIC": { "ru": "кошелек настраиваеться в языках" },
+    "WALLET_USDT_SOL": { "ru": "кошелек настраиваеться в языках" },
+    "WALLET_USDT_TRON": { "ru": "кошелек" }
+
+}
+
