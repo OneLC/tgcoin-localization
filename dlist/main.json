@@ -263,9 +263,9 @@
         "ru": "USDT Solana",
         "en": "USDT Solana"
     },
-    "CRYPTO_USDT_TRON_BUTTON": {
-        "ru": "USDT Tron",
-        "en": "USDT Tron"
+    "CRYPTO_TON_BUTTON": {
+        "ru": "TON Coin",
+        "en": "TON Coin"
     },
     "BANK_TINKOFF_BUTTON": {
         "ru": "Тинькофф",
@@ -323,7 +323,7 @@
     "WALLET_USDT_ETH": { "ru": "кошелек настраиваеться в языках" },
     "WALLET_USDT_MATIC": { "ru": "кошелек настраиваеться в языках" },
     "WALLET_USDT_SOL": { "ru": "кошелек настраиваеться в языках" },
-    "WALLET_USDT_TRON": { "ru": "кошелек" }
+    "WALLET_TON": { "ru": "кошелек ton" }
 
 }
 
